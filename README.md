@@ -3,7 +3,7 @@
 ![minio_JAVA1](https://github.com/minio/minio-java-rest-example/blob/master/docs/screenshots/minio-JAVA1.jpg?raw=true)
 
 
-This example will guide you through the code to build a really simple Java based RESTful service with the [Minio Server](https://docs.minio.io/docs/minio-quickstart-guide) and the[ Minio Java Client SDK](https://docs.minio.io/docs/java-client-quickstart-guide). 
+This simple example will guide you through the code to build a really simple Java based RESTful service with the [Minio Server](https://docs.minio.io/docs/minio-quickstart-guide) and the[ Minio Java Client SDK](https://docs.minio.io/docs/java-client-quickstart-guide). 
 
 REST based apps are often written to service mobile and web clients. PhotoAPI Service we create in this example will service the [Android Photo App](https://docs.minio.io/docs/android-photo-app)  and [Swift Photo App](https://docs.minio.io/docs/swift-photo-app) examples.
 
